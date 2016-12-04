@@ -1,0 +1,17 @@
+public class arrayascendente {
+	public static void main(String arga[]) {
+		int i,temp,j,a[]={1,7,5,9,2,12,53,25};
+		for (i=0;i<8;i++) {
+			for (j=i+1;j<8;j++) {
+				if (a[i] > a[j]) {
+					temp=a[i];
+					a[i]=a[j];
+					a[j]=temp;
+				}
+			}
+		}
+		for (i=0;i<8;i++) {
+			System.out.println(a[i]);
+		}
+	}
+}
