@@ -1,8 +1,8 @@
 # Java
 Fontes de programas.
 
-Fontes de programas criados na sala de aula e no laboratório de informática.
+Fontes de programas exemplos na minha experiência na programação em Java.
 
-Criei este git para que todos usufruam dos exercícios que fizemos neste primeiro semestre.
+Criei este git para que todos usufruam desses exemplos.
 
-Luiz Carlos
+Luiz Carlos Albino
